@@ -18,6 +18,19 @@
 
 **Flight time:** 1h 50m
 
+## Thursday, 24 September — Melbourne → Hobart
+
+**Jetstar Airways — Direct**
+
+| | |
+|---|---|
+| **06:55** | ✈️ Depart **Melbourne (MEL), Terminal 4** |
+| | Jetstar Airways · Economy |
+| **08:15** | 🛬 Arrive **Hobart (HBA), Domestic Terminal** |
+
+**Flight time:** 1h 20m  
+**Fare:** AU$194
+
 ## Monday, 28 September — Launceston → Sydney
 
 **Direct flight**
@@ -267,6 +280,7 @@ Skip **Sheffield sightseeing and Cataract Gorge** in this scenario.
 
 **Outbound:**  
 ✈️ **Sydney 06:45 → Hobart 08:35 — Thursday 24 September**
+✈️ **Melbourne 06:55 → Hobart 08:15 — Thursday 24 September**
 
 **Return:**  
 ✈️ **Launceston 17:40 → Sydney 19:25 — Monday 28 September**
