@@ -1,23 +1,53 @@
-# Tasmania Road Trip — Thursday to Monday
+# Tasmania Road Trip — 24–28 September
 
-**Route:** Hobart → Port Arthur → Bicheno / Freycinet → Deloraine → Cradle Mountain → Launceston
+**Route:** Sydney → Hobart → Port Arthur → Bicheno / Freycinet → Deloraine → Cradle Mountain → Launceston → Sydney
 
 ---
 
-## Thursday — Hobart → Mount Wellington → Port Arthur
+# ✈️ Flights
+
+## Thursday, 24 September — Sydney → Hobart
+
+**Jetstar JQ719 — Direct**
+
+| | |
+|---|---|
+| **06:45** | ✈️ Depart **Sydney (SYD), Terminal 2** |
+| | Jetstar Airways JQ719 · Airbus A320 · Economy |
+| **08:35** | 🛬 Arrive **Hobart (HBA)** |
+
+**Flight time:** 1h 50m
+
+## Monday, 28 September — Launceston → Sydney
+
+**Direct flight**
+
+| | |
+|---|---|
+| **17:40** | ✈️ Depart **Launceston (LST)** |
+| **19:25** | 🛬 Arrive **Sydney (SYD)** |
+
+**Flight time:** 1h 45m
+
+---
+
+# Thursday, 24 September — Hobart → Mount Wellington → Port Arthur
 
 | Time | Plan |
 |---|---|
-| **10:00** | ✈️ Arrive / 🚗 collect car at Hobart Airport |
-| **10:15–11:00** | Drive to **kunanyi / Mount Wellington** |
-| **11:00–12:15** | ⛰️ Summit, viewpoints + short walk |
-| **12:15–13:00** | Drive down |
-| **13:00–14:00** | 🍽️ Lunch in Hobart |
-| **14:00–15:30** | 🚗 Hobart → Eaglehawk Neck |
-| **15:30–16:00** | 🌊 **Tessellated Pavement** |
-| **16:10–16:40** | 🌊 **Tasman Arch + Devil's Kitchen** |
-| **16:40–17:10** | Drive → Port Arthur |
-| **17:10–18:00** | 🏨 Check in / rest |
+| **06:45** | ✈️ Depart Sydney |
+| **08:35** | 🛬 Arrive Hobart Airport |
+| **08:35–09:15** | Baggage collection / airport |
+| **09:15–10:00** | 🚗 Pick up rental car |
+| **10:00–10:45** | Drive to **kunanyi / Mount Wellington** |
+| **10:45–12:00** | ⛰️ Summit, viewpoints + short walk |
+| **12:00–12:45** | Drive down |
+| **12:45–13:45** | 🍽️ Lunch in Hobart |
+| **13:45–15:15** | 🚗 Hobart → Eaglehawk Neck |
+| **15:15–15:45** | 🌊 **Tessellated Pavement** |
+| **16:00–16:30** | 🌊 **Tasman Arch + Devil's Kitchen** |
+| **16:30–17:00** | 🚗 Drive → Port Arthur |
+| **17:00–18:00** | 🏨 Check in / rest |
 | **18:00–19:30** | 🍽️ Dinner |
 | **19:30+** | Relax |
 
@@ -25,7 +55,7 @@
 
 ---
 
-## Friday — Cape Raoul Cruise → Port Arthur → Bicheno
+# Friday, 25 September — Cape Raoul Cruise → Port Arthur → Bicheno
 
 | Time | Plan |
 |---|---|
@@ -33,7 +63,7 @@
 | **08:00–08:40** | Shower / get ready |
 | **08:40–09:20** | 🍳 Breakfast |
 | **09:20–09:40** | Check out |
-| **09:40–10:15** | Arrive at Port Arthur / tickets / walk toward jetty |
+| **09:40–10:15** | Arrive Port Arthur / tickets / walk toward jetty |
 | **10:15–10:30** | 🚶 Cruise check-in |
 | **10:45–12:15** | 🚤 **Cape Raoul Wilderness Cruise** |
 | **12:15–13:00** | 🍽️ Lunch at Port Arthur |
@@ -52,7 +82,7 @@
 
 ---
 
-## Saturday — Freycinet → Wineglass Bay + Hazards Beach → Deloraine
+# Saturday, 26 September — Freycinet → Wineglass Bay + Hazards Beach → Deloraine
 
 | Time | Plan |
 |---|---|
@@ -85,7 +115,7 @@ Don't depend on getting lunch before finishing the hike.
 
 ---
 
-## Sunday — Deloraine → Cradle Mountain → Dove Lake + Ronny Creek
+# Sunday, 27 September — Deloraine → Cradle Mountain → Dove Lake + Ronny Creek
 
 | Time | Plan |
 |---|---|
@@ -118,47 +148,59 @@ This gives roughly **1 hour 40 minutes at Ronny Creek** while maintaining a safe
 
 ---
 
-## Monday — Cradle Mountain → Sheffield → Launceston
+# Monday, 28 September — Cradle Mountain → Sheffield → Launceston → Sydney
+
+⚠️ **Flight departs at 17:40**, so the previous plan needs to finish earlier.
 
 | Time | Plan |
 |---|---|
 | **08:00** | Wake up |
-| **08:00–08:45** | Shower / get ready |
-| **08:45–09:30** | 🍳 Breakfast |
-| **09:30–10:15** | 🌲 **Enchanted Walk** |
-| **10:15–10:45** | Pack / check out |
-| **10:45–12:00** | 🚗 Cradle Mountain → Sheffield |
-| **12:00–13:15** | 🍽️ Lunch + **Sheffield murals** |
-| **13:15–14:30** | 🚗 Sheffield → Launceston |
-| **14:30–15:45** | 🌳 **Cataract Gorge** |
-| **15:45–16:15** | ☕ Coffee / snack |
-| **16:15–16:40** | 🚗 Drive toward airport / refuel |
-| **~17:00** | 🚗 Return rental car |
-| **17:00–18:30** | Airport / check-in |
-| **19:00** | ✈️ Flight from Launceston |
+| **08:00–08:40** | Shower / get ready |
+| **08:40–09:20** | 🍳 Breakfast |
+| **09:20–10:00** | 🌲 **Enchanted Walk** |
+| **10:00–10:20** | Pack / check out |
+| **10:20–11:35** | 🚗 Cradle Mountain → Sheffield |
+| **11:35–12:30** | 🎨 Sheffield murals + 🍽️ early lunch |
+| **12:30–13:45** | 🚗 Sheffield → Launceston |
+| **13:45–14:45** | 🌳 **Cataract Gorge** |
+| **14:45–15:05** | ☕ Coffee / snack |
+| **15:05–15:30** | 🚗 Drive toward airport + refuel |
+| **~15:30–15:45** | 🚗 Return rental car |
+| **15:45–17:10** | Airport / check-in / security |
+| **17:40** | ✈️ Depart **Launceston (LST)** |
+| **19:25** | 🛬 Arrive **Sydney (SYD)** |
 
 ---
 
-# Bad Weather Backup — Cradle Mountain
+# 🌧️ Bad Weather Backup — Cradle Mountain
 
 If Sunday weather at Cradle Mountain is terrible:
 
-### Sunday
+## Sunday
+
 - Do **Ronny Creek**
 - Do shorter forest walks
 - Relax at Cradle Mountain
-- Don't force the Dove Lake hike in poor conditions
+- Don't force Dove Lake in poor conditions
 
-### Monday
-- **08:00** — Wake up
-- **08:45** — Breakfast
-- **~09:30–12:30** — Dove Lake Circuit
-- **~12:30–13:00** — Leave Cradle Mountain
-- Quick lunch on the way
-- Drive directly toward Launceston
-- Skip Sheffield sightseeing and Cataract Gorge if necessary
-- **~17:00** — Return rental car
-- **19:00** — Flight
+## Monday
+
+Because the flight is at **17:40**, keep a large safety margin.
+
+| Time | Plan |
+|---|---|
+| **08:00** | Wake up |
+| **08:30–09:10** | 🍳 Breakfast |
+| **~09:30–12:15** | 🥾 **Dove Lake Circuit** |
+| **~12:15–12:30** | Return / get car |
+| **12:30** | 🚗 Leave Cradle Mountain |
+| **~13:30** | 🥪 Quick lunch on the way |
+| **~15:00** | Reach Launceston area |
+| **~15:30** | Refuel + return rental car |
+| **17:40** | ✈️ Depart Launceston |
+| **19:25** | 🛬 Sydney |
+
+Skip **Sheffield sightseeing and Cataract Gorge** in this scenario.
 
 ---
 
@@ -166,16 +208,16 @@ If Sunday weather at Cradle Mountain is terrible:
 
 | Day | Main Experiences | Sleep |
 |---|---|---|
-| **Thursday** | Mount Wellington → Tessellated Pavement → Tasman Arch | **Port Arthur** |
-| **Friday** | Cape Raoul Cruise → Port Arthur Historic Site → East Coast drive | **Bicheno** |
-| **Saturday** | Wineglass Bay + Hazards Beach → Campbell Town | **Deloraine** |
-| **Sunday** | Dove Lake → Ronny Creek | **Cradle Mountain** |
-| **Monday** | Enchanted Walk → Sheffield → Cataract Gorge → ✈️ | — |
+| **Thu 24 Sep** | ✈️ Sydney → Hobart → Mount Wellington → Tasman Peninsula | **Port Arthur** |
+| **Fri 25 Sep** | Cape Raoul Cruise → Port Arthur Historic Site → East Coast | **Bicheno** |
+| **Sat 26 Sep** | Wineglass Bay + Hazards Beach → Campbell Town | **Deloraine** |
+| **Sun 27 Sep** | Dove Lake → Ronny Creek | **Cradle Mountain** |
+| **Mon 28 Sep** | Enchanted Walk → Sheffield → Cataract Gorge → ✈️ Launceston 17:40 | — |
 
-## Key Rule
+# Key Flight Times
 
-Don't add another major destination.
+**Outbound:**  
+✈️ **Sydney 06:45 → Hobart 08:35 — Thursday 24 September**
 
-The itinerary already includes **Mount Wellington, Tasman Peninsula, Cape Raoul, Port Arthur, Freycinet, Wineglass Bay, Hazards Beach, Cradle Mountain, Ronny Creek, Sheffield and Launceston** in 4½ days.
-
-Adding Bay of Fires or another major detour would make the trip considerably more rushed.
+**Return:**  
+✈️ **Launceston 17:40 → Sydney 19:25 — Monday 28 September**
