@@ -53,6 +53,31 @@
 
 **🛏 Stay:** Port Arthur
 
+# 🏨 [Port Arthur Motor Inn](https://www.booking.com/hotel/au/port-arthur-motor-inn.en-gb.html)
+
+![Port Arthur Motor Inn](https://q-xx.bstatic.com/xdata/images/hotel/max300/62753493.jpg?k=36d1f95e6609ddcd5201071640c70fe875a2474e50a24b277ef1f6aa48b0b5b9\&o=)
+
+**3-star hotel**
+
+### Check-in
+
+**Thu 24 Sept 2026**
+14:00–20:00
+
+### Check-out
+
+**Fri 25 Sept 2026**
+Until 10:00
+
+### Booking details
+
+**4 adults · 1 night · 2 rooms**
+
+### Address
+
+📍 **29 Safety Cove Road, 7182 Port Arthur, Australia**
+
+
 ---
 
 # Friday, 25 September — Cape Raoul Cruise → Port Arthur → Bicheno
