@@ -65,7 +65,7 @@
 | **09:20–09:40** | Check out |
 | **09:40–10:15** | Arrive Port Arthur / tickets / walk toward jetty |
 | **10:15–10:30** | 🚶 Cruise check-in |
-| **10:45–12:15** | 🚤 **Cape Raoul Wilderness Cruise** |
+| **10:45–12:15** | 🚤 **Cape Raoul Wilderness Cruise** https://www.caperaoulcruises.com.au/?utm_source=chatgpt.com#tours|
 | **12:15–13:00** | 🍽️ Lunch at Port Arthur |
 | **13:00–15:30** | 🏛️ **Port Arthur Historic Site** |
 | **15:30–15:45** | Toilet / coffee / snack |
@@ -91,7 +91,7 @@
 | **08:40–09:20** | 🍳 Proper breakfast |
 | **09:20–10:00** | 🚗 Bicheno → Freycinet |
 | **10:00–10:15** | Park / toilets / prepare |
-| **10:15–14:15** | 🥾 **Wineglass Bay + Hazards Beach Circuit** |
+| **10:15–14:15** | 🥾 **Wineglass Bay + Hazards Beach Circuit** https://www.alltrails.com/en-gb/trail/australia/tasmania/wineglass-bay-and-hazards-beach?sh=zum5cy&utm_medium=trail_share&utm_source=alltrails_virality|
 | **~12:00** | 🥪 Snack/light food during hike |
 | **14:15–15:00** | 🍽️ Late lunch in Coles Bay |
 | **15:00–16:30** | 🚗 Coles Bay → Campbell Town |
@@ -124,7 +124,7 @@ Don't depend on getting lunch before finishing the hike.
 | **08:40–09:20** | 🍳 Breakfast |
 | **09:20–10:50** | 🚗 Deloraine → Cradle Mountain |
 | **10:50–11:10** | Visitor Centre / toilets / prepare for shuttle |
-| **~11:10** | 🚌 Shuttle toward Dove Lake |
+| **~11:10** | 🚌 Shuttle toward Dove Lake https://parks.tas.gov.au/explore-our-parks/cradle-mountain/cradle-mountain-shuttle-bus-information|
 | **~11:30** | Arrive at **Dove Lake** |
 | **11:30–14:15** | 🥾 **Dove Lake Circuit** |
 | **~12:45** | 🥪 Packed lunch/snack during hike |
