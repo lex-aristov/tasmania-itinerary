@@ -102,6 +102,30 @@ Until 10:00
 | **20:30+** | Rest |
 
 **🛏 Stay:** Bicheno
+# 🏨 [Wintersun Motel](https://www.booking.com/hotel/au/wintersun-gardens-motel.en-gb.html)
+
+![Wintersun Motel](https://r-xx.bstatic.com/xdata/images/hotel/max300/405463864.jpg?k=f77f3aef6011361ce4edab6bf355156436161ab8764c1b5bed378cc945d2f5e6\&o=)
+
+**3.5-star motel**
+
+### Check-in
+
+**Fri 25 Sept 2026**
+14:00–20:00
+
+### Check-out
+
+**Sat 26 Sept 2026**
+Until 10:00
+
+### Booking details
+
+**4 adults · 1 night · 2 rooms**
+
+### Address
+
+📍 **35 Gordon Street, 7215 Bicheno, Australia**
+
 
 > Friday is the main evening-driving day. Don't add sightseeing stops after leaving Port Arthur.
 
