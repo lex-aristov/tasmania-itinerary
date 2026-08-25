@@ -280,6 +280,7 @@ Skip **Sheffield sightseeing and Cataract Gorge** in this scenario.
 
 **Outbound:**  
 ✈️ **Sydney 06:45 → Hobart 08:35 — Thursday 24 September**
+
 ✈️ **Melbourne 06:55 → Hobart 08:15 — Thursday 24 September**
 
 **Return:**  
