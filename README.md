@@ -120,7 +120,23 @@
 
 **Route:** https://www.google.com/maps/dir/Coles+Bay,+TAS/Campbell+Town,+TAS/Ross,+TAS/Liffey+Falls,+TAS/Deloraine,+TAS/Mole+Creek,+TAS/Sheffield,+TAS/Cradle+Mountain+Visitor+Centre,+Cradle+Mountain+TAS
 
-**🛏 Stay:** Deloraine
+<table>
+<tr>
+<td valign="top">
+
+**🛏 Stay:** Mountain View Country Inn, Deloraine<br>
+**Check-in:** Friday, 25 September 2026, after 14:00<br>
+**Check-out:** Saturday, 26 September 2026, 07:00–10:00<br>
+**Address:** 144 Emu Bay Rd, Deloraine, Tasmania 7304, Australia<br>
+**Phone:** +61 3 6362 2633<br>
+**Email:** mountainview.56p45cpqfgp30rt@htlpartner.trip.com
+
+</td>
+<td valign="top">
+<img src="http://images4.c-ctrip.com/target/0586c12000snexp2iBA9D_R_670_760.jpg" alt="Mountain View Country Inn" width="168">
+</td>
+</tr>
+</table>
 
 ### Hiking food
 
