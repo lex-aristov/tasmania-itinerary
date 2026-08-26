@@ -59,7 +59,7 @@
 
 ---
 
-# Thursday, 24 September — Cape Raoul Cruise → Port Arthur → Bicheno
+# Thursday, 24 September — Cape Raoul Cruise → Port Arthur → Hobart → Bicheno
 
 | Time | Plan |
 |---|---|
@@ -70,17 +70,19 @@
 | **09:40–10:15** | Arrive Port Arthur / tickets / walk toward jetty |
 | **10:15–10:30** | 🚶 Cruise check-in |
 | **10:45–12:15** | 🚤 **Cape Raoul Wilderness Cruise** https://www.caperaoulcruises.com.au/?utm_source=chatgpt.com#tours|
-| **12:15–13:00** | 🍽️ Lunch at Port Arthur |
-| **13:00–15:30** | 🏛️ **Port Arthur Historic Site** |
-| **15:30–15:45** | Toilet / coffee / snack |
-| **15:45** | 🚗 Leave for Bicheno |
-| **~17:00–17:15** | ☕ **Orford:** quick break + fuel if needed |
-| **17:15–19:00** | 🚗 Orford → Swansea → Bicheno |
-| **~19:00** | 🏨 Check in |
+| **12:15–12:45** | 🍽️ Quick lunch at Port Arthur |
+| **12:45–14:30** | 🏛️ **Port Arthur Historic Site** |
+| **14:30** | 🚗 Lex and Stella leave for Hobart |
+| **~16:00** | Arrive in Hobart and pick up Andre and Nadia |
+| **16:00–16:20** | Load luggage / toilet / quick snack |
+| **16:20** | 🚗 Depart Hobart for Bicheno via Sorell and Orford |
+| **~17:30–17:45** | ☕ **Orford:** quick break + fuel if needed |
+| **17:45–19:15** | 🚗 Orford → Swansea → Bicheno |
+| **~19:15** | 🏨 Check in |
 | **19:30–20:30** | 🍽️ Dinner |
 | **20:30+** | Rest |
 
-**Route:** https://www.google.com/maps/dir/Port+Arthur+Historic+Site,+Port+Arthur+TAS/Three+Thumbs+Lookout,+Orford+TAS/Mayfield+Bay,+TAS/Kelvedon+Beach,+TAS/Spiky+Bridge,+Swansea+TAS/Kates+Berry+Farm,+Swansea+TAS/Devils+Corner+Cellar+Door,+Apslawn+TAS/Bicheno,+TAS
+**Route:** https://www.google.com/maps/dir/Port+Arthur+Historic+Site,+Port+Arthur+TAS/Hobart+Airport,+Cambridge+TAS/Three+Thumbs+Lookout,+Orford+TAS/Mayfield+Bay,+TAS/Kelvedon+Beach,+TAS/Spiky+Bridge,+Swansea+TAS/Kates+Berry+Farm,+Swansea+TAS/Devils+Corner+Cellar+Door,+Apslawn+TAS/Bicheno,+TAS
 
 <table>
 <tr>
@@ -100,7 +102,7 @@
 </tr>
 </table>
 
-> Thursday is the main evening-driving day. Don't add sightseeing stops after leaving Port Arthur.
+> Thursday is the main evening-driving day. The Hobart stop is for meeting Andre and Nadia only; don't add sightseeing stops after leaving Port Arthur.
 
 ---
 
@@ -250,8 +252,8 @@ Skip **Sheffield sightseeing and Cataract Gorge** in this scenario.
 
 | Day | Main Experiences | Sleep |
 |---|---|---|
-| **Wed 23 Sep** | ✈️ Sydney → Hobart → Mount Wellington → Tasman Peninsula | **Port Arthur** |
-| **Thu 24 Sep** | Cape Raoul Cruise → Port Arthur Historic Site → East Coast | **Bicheno** |
+| **Wed 23 Sep** | Lex and Stella: Sydney → Hobart → Mount Wellington → Tasman Peninsula. Andre and Nadia: Melbourne → Hobart | **Port Arthur / Hobart** |
+| **Thu 24 Sep** | Cape Raoul Cruise → Port Arthur Historic Site → Hobart pickup → East Coast | **Bicheno** |
 | **Fri 25 Sep** | Wineglass Bay + Hazards Beach → Campbell Town | **Deloraine** |
 | **Sat 26 Sep** | Dove Lake → Ronny Creek | **Cradle Mountain** |
 | **Sun 27 Sep** | Enchanted Walk → Sheffield → Cataract Gorge → ✈️ Launceston 17:40 | — |
