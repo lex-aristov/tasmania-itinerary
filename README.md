@@ -6,41 +6,14 @@
 
 # ✈️ Flights
 
-## Wednesday, 23 September — Sydney → Hobart
+## Flight overview
 
-**Jetstar JQ719 — Direct**
+| Date | Passengers | Flight | Route | Departure | Arrival | Duration |
+|---|---|---|---|---|---|---|
+| **Wed, 23 Sep 2026** | Lex and Stella | **Jetstar JQ719** | Sydney (SYD) → Hobart (HBA) | **06:45**, Terminal 2 | **08:35** | 1h 50m |
+| **Wed, 23 Sep 2026** | Andre and Nadia | **Virgin Australia VA1334** | Melbourne (MEL) → Hobart (HBA) | **21:10**, Terminal 3 | **22:30**, Terminal D | 1h 20m |
+| **Sun, 27 Sep 2026** | Lex, Stella, Andre and Nadia | **Jetstar JQ750** | Launceston (LST) → Sydney (SYD) | **17:40** | **19:25** | 1h 45m |
 
-| | |
-|---|---|
-| **06:45** | ✈️ Depart **Sydney (SYD), Terminal 2** |
-| | Jetstar Airways JQ719 · Airbus A320 · Economy |
-| **08:35** | 🛬 Arrive **Hobart (HBA)** |
-
-**Flight time:** 1h 50m
-
-## Wednesday, 23 September — Melbourne → Hobart
-
-**Jetstar Airways — Direct**
-
-| | |
-|---|---|
-| **06:55** | ✈️ Depart **Melbourne (MEL), Terminal 4** |
-| | Jetstar Airways · Economy |
-| **08:15** | 🛬 Arrive **Hobart (HBA), Domestic Terminal** |
-
-**Flight time:** 1h 20m  
-**Fare:** AU$194
-
-## Sunday, 27 September — Launceston → Sydney
-
-**Direct flight**
-
-| | |
-|---|---|
-| **17:40** | ✈️ Depart **Launceston (LST)** |
-| **19:25** | 🛬 Arrive **Sydney (SYD)** |
-
-**Flight time:** 1h 45m
 
 ---
 
@@ -282,13 +255,3 @@ Skip **Sheffield sightseeing and Cataract Gorge** in this scenario.
 | **Fri 25 Sep** | Wineglass Bay + Hazards Beach → Campbell Town | **Deloraine** |
 | **Sat 26 Sep** | Dove Lake → Ronny Creek | **Cradle Mountain** |
 | **Sun 27 Sep** | Enchanted Walk → Sheffield → Cataract Gorge → ✈️ Launceston 17:40 | — |
-
-# Key Flight Times
-
-**Outbound:**  
-✈️ **Sydney 06:45 → Hobart 08:35 — Wednesday 23 September**
-
-✈️ **Melbourne 06:55 → Hobart 08:15 — Wednesday 23 September**
-
-**Return:**  
-✈️ **Launceston 17:40 → Sydney 19:25 — Sunday 27 September**
