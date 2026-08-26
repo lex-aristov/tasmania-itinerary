@@ -66,7 +66,23 @@
 
 **Route:** https://www.google.com/maps/dir/Mount+Wellington,+Tasmania/Rosny+Hill+Lookout,+Rosny+TAS/Richmond+Bridge,+Richmond+TAS/Richmond,+TAS/Dunalley,+TAS/Pirates+Bay+Lookout,+Eaglehawk+Neck+TAS/Tessellated+Pavement,+Eaglehawk+Neck+TAS/Tasman+Arch,+Eaglehawk+Neck+TAS/Devils+Kitchen,+Eaglehawk+Neck+TAS/Blow+Hole,+Eaglehawk+Neck+TAS/Port+Arthur+Historic+Site,+Port+Arthur+TAS
 
-**🛏 Stay:** Port Arthur
+<table>
+<tr>
+<td valign="top">
+
+**🛏 Stay:** Port Arthur Motor Inn<br>
+**Rating:** 3 stars<br>
+**Check-in:** Wednesday, 23 September 2026, 14:00–20:00<br>
+**Check-out:** Thursday, 24 September 2026, until 10:00<br>
+**Booking:** 2 adults, 1 night, 1 room<br>
+**Address:** 29 Safety Cove Road, Port Arthur TAS 7182, Australia
+
+</td>
+<td valign="top">
+<img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/62753493.jpg?k=36d1f95e6609ddcd5201071640c70fe875a2474e50a24b277ef1f6aa48b0b5b9&amp;o=" alt="Port Arthur Motor Inn" width="300">
+</td>
+</tr>
+</table>
 
 ---
 
