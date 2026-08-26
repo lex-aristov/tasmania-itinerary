@@ -43,12 +43,12 @@
 <tr>
 <td valign="top">
 
-**🛏 Stay:** Port Arthur Motor Inn<br>
+**🛏 Stay:** [Port Arthur Motor Inn](https://www.booking.com/searchresults.html?ss=Port+Arthur+Motor+Inn%2C+Port+Arthur%2C+Tasmania)<br>
 **Rating:** 3 stars<br>
 **Check-in:** Wednesday, 23 September 2026, 14:00–20:00<br>
 **Check-out:** Thursday, 24 September 2026, until 10:00<br>
 **Booking:** 2 adults, 1 night, 1 room<br>
-**Address:** 29 Safety Cove Road, Port Arthur TAS 7182, Australia
+**Address:** [29 Safety Cove Road, Port Arthur TAS 7182, Australia](https://www.google.com/maps/search/?api=1&query=Port+Arthur+Motor+Inn%2C+29+Safety+Cove+Road%2C+Port+Arthur+TAS+7182)
 
 </td>
 <td valign="top">
@@ -86,12 +86,12 @@
 <tr>
 <td valign="top">
 
-**🛏 Stay:** Wintersun Motel, Bicheno<br>
+**🛏 Stay:** [Wintersun Motel, Bicheno](https://www.booking.com/searchresults.html?ss=Wintersun+Motel%2C+Bicheno%2C+Tasmania)<br>
 **Rating:** 3.5 stars<br>
 **Check-in:** Thursday, 24 September 2026, 14:00–20:00<br>
 **Check-out:** Friday, 25 September 2026, until 10:00<br>
 **Booking:** 4 adults, 1 night, 1 apartment<br>
-**Address:** 35 Gordon Street, Bicheno TAS 7215, Australia
+**Address:** [35 Gordon Street, Bicheno TAS 7215, Australia](https://www.google.com/maps/search/?api=1&query=Wintersun+Motel%2C+35+Gordon+Street%2C+Bicheno+TAS+7215)
 
 </td>
 <td valign="top">
@@ -129,10 +129,10 @@
 <tr>
 <td valign="top">
 
-**🛏 Stay:** Mountain View Country Inn, Deloraine<br>
+**🛏 Stay:** [Mountain View Country Inn, Deloraine](https://www.trip.com/w/OKWHHkmu5W2)<br>
 **Check-in:** Friday, 25 September 2026, after 14:00<br>
 **Check-out:** Saturday, 26 September 2026, 07:00–10:00<br>
-**Address:** 144 Emu Bay Rd, Deloraine, Tasmania 7304, Australia<br>
+**Address:** [144 Emu Bay Rd, Deloraine, Tasmania 7304, Australia](https://www.google.com/maps/search/?api=1&query=Mountain+View+Country+Inn%2C+144+Emu+Bay+Road%2C+Deloraine+TAS+7304)<br>
 **Phone:** +61 3 6362 2633<br>
 **Email:** mountainview.56p45cpqfgp30rt@htlpartner.trip.com
 
