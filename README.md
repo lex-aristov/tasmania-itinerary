@@ -1,4 +1,4 @@
-# Tasmania Road Trip — 24–28 September
+# Tasmania Road Trip — 23–27 September
 
 **Route:** Sydney → Hobart → Port Arthur → Bicheno / Freycinet → Deloraine → Cradle Mountain → Launceston → Sydney
 
@@ -6,7 +6,7 @@
 
 # ✈️ Flights
 
-## Thursday, 24 September — Sydney → Hobart
+## Wednesday, 23 September — Sydney → Hobart
 
 **Jetstar JQ719 — Direct**
 
@@ -18,7 +18,7 @@
 
 **Flight time:** 1h 50m
 
-## Thursday, 24 September — Melbourne → Hobart
+## Wednesday, 23 September — Melbourne → Hobart
 
 **Jetstar Airways — Direct**
 
@@ -31,7 +31,7 @@
 **Flight time:** 1h 20m  
 **Fare:** AU$194
 
-## Monday, 28 September — Launceston → Sydney
+## Sunday, 27 September — Launceston → Sydney
 
 **Direct flight**
 
@@ -44,7 +44,7 @@
 
 ---
 
-# Thursday, 24 September — Hobart → Mount Wellington → Port Arthur
+# Wednesday, 23 September — Hobart → Mount Wellington → Port Arthur
 
 | Time | Plan |
 |---|---|
@@ -66,34 +66,9 @@
 
 **🛏 Stay:** Port Arthur
 
-# 🏨 [Port Arthur Motor Inn](https://www.booking.com/hotel/au/port-arthur-motor-inn.en-gb.html)
-
-![Port Arthur Motor Inn](https://q-xx.bstatic.com/xdata/images/hotel/max300/62753493.jpg?k=36d1f95e6609ddcd5201071640c70fe875a2474e50a24b277ef1f6aa48b0b5b9\&o=)
-
-**3-star hotel**
-
-### Check-in
-
-**Thu 24 Sept 2026**
-14:00–20:00
-
-### Check-out
-
-**Fri 25 Sept 2026**
-Until 10:00
-
-### Booking details
-
-**4 adults · 1 night · 2 rooms**
-
-### Address
-
-📍 **29 Safety Cove Road, 7182 Port Arthur, Australia**
-
-
 ---
 
-# Friday, 25 September — Cape Raoul Cruise → Port Arthur → Bicheno
+# Thursday, 24 September — Cape Raoul Cruise → Port Arthur → Bicheno
 
 | Time | Plan |
 |---|---|
@@ -115,36 +90,12 @@ Until 10:00
 | **20:30+** | Rest |
 
 **🛏 Stay:** Bicheno
-# 🏨 [Wintersun Motel](https://www.booking.com/hotel/au/wintersun-gardens-motel.en-gb.html)
 
-![Wintersun Motel](https://r-xx.bstatic.com/xdata/images/hotel/max300/405463864.jpg?k=f77f3aef6011361ce4edab6bf355156436161ab8764c1b5bed378cc945d2f5e6\&o=)
-
-**3.5-star motel**
-
-### Check-in
-
-**Fri 25 Sept 2026**
-14:00–20:00
-
-### Check-out
-
-**Sat 26 Sept 2026**
-Until 10:00
-
-### Booking details
-
-**4 adults · 1 night · 2 rooms**
-
-### Address
-
-📍 **35 Gordon Street, 7215 Bicheno, Australia**
-
-
-> Friday is the main evening-driving day. Don't add sightseeing stops after leaving Port Arthur.
+> Thursday is the main evening-driving day. Don't add sightseeing stops after leaving Port Arthur.
 
 ---
 
-# Saturday, 26 September — Freycinet → Wineglass Bay + Hazards Beach → Deloraine
+# Friday, 25 September — Freycinet → Wineglass Bay + Hazards Beach → Deloraine
 
 | Time | Plan |
 |---|---|
@@ -177,7 +128,7 @@ Don't depend on getting lunch before finishing the hike.
 
 ---
 
-# Sunday, 27 September — Deloraine → Cradle Mountain → Dove Lake + Ronny Creek
+# Saturday, 26 September — Deloraine → Cradle Mountain → Dove Lake + Ronny Creek
 
 | Time | Plan |
 |---|---|
@@ -210,7 +161,7 @@ This gives roughly **1 hour 40 minutes at Ronny Creek** while maintaining a safe
 
 ---
 
-# Monday, 28 September — Cradle Mountain → Sheffield → Launceston → Sydney
+# Sunday, 27 September — Cradle Mountain → Sheffield → Launceston → Sydney
 
 ⚠️ **Flight departs at 17:40**, so the previous plan needs to finish earlier.
 
@@ -236,16 +187,16 @@ This gives roughly **1 hour 40 minutes at Ronny Creek** while maintaining a safe
 
 # 🌧️ Bad Weather Backup — Cradle Mountain
 
-If Sunday weather at Cradle Mountain is terrible:
+If Saturday weather at Cradle Mountain is terrible:
 
-## Sunday
+## Saturday
 
 - Do **Ronny Creek**
 - Do shorter forest walks
 - Relax at Cradle Mountain
 - Don't force Dove Lake in poor conditions
 
-## Monday
+## Sunday
 
 Because the flight is at **17:40**, keep a large safety margin.
 
@@ -270,18 +221,18 @@ Skip **Sheffield sightseeing and Cataract Gorge** in this scenario.
 
 | Day | Main Experiences | Sleep |
 |---|---|---|
-| **Thu 24 Sep** | ✈️ Sydney → Hobart → Mount Wellington → Tasman Peninsula | **Port Arthur** |
-| **Fri 25 Sep** | Cape Raoul Cruise → Port Arthur Historic Site → East Coast | **Bicheno** |
-| **Sat 26 Sep** | Wineglass Bay + Hazards Beach → Campbell Town | **Deloraine** |
-| **Sun 27 Sep** | Dove Lake → Ronny Creek | **Cradle Mountain** |
-| **Mon 28 Sep** | Enchanted Walk → Sheffield → Cataract Gorge → ✈️ Launceston 17:40 | — |
+| **Wed 23 Sep** | ✈️ Sydney → Hobart → Mount Wellington → Tasman Peninsula | **Port Arthur** |
+| **Thu 24 Sep** | Cape Raoul Cruise → Port Arthur Historic Site → East Coast | **Bicheno** |
+| **Fri 25 Sep** | Wineglass Bay + Hazards Beach → Campbell Town | **Deloraine** |
+| **Sat 26 Sep** | Dove Lake → Ronny Creek | **Cradle Mountain** |
+| **Sun 27 Sep** | Enchanted Walk → Sheffield → Cataract Gorge → ✈️ Launceston 17:40 | — |
 
 # Key Flight Times
 
 **Outbound:**  
-✈️ **Sydney 06:45 → Hobart 08:35 — Thursday 24 September**
+✈️ **Sydney 06:45 → Hobart 08:35 — Wednesday 23 September**
 
-✈️ **Melbourne 06:55 → Hobart 08:15 — Thursday 24 September**
+✈️ **Melbourne 06:55 → Hobart 08:15 — Wednesday 23 September**
 
 **Return:**  
-✈️ **Launceston 17:40 → Sydney 19:25 — Monday 28 September**
+✈️ **Launceston 17:40 → Sydney 19:25 — Sunday 27 September**
