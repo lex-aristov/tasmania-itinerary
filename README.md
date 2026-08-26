@@ -64,6 +64,8 @@
 | **18:00–19:30** | 🍽️ Dinner |
 | **19:30+** | Relax |
 
+**Route:** https://www.google.com/maps/dir/Mount+Wellington,+Tasmania/Rosny+Hill+Lookout,+Rosny+TAS/Richmond+Bridge,+Richmond+TAS/Richmond,+TAS/Dunalley,+TAS/Pirates+Bay+Lookout,+Eaglehawk+Neck+TAS/Tessellated+Pavement,+Eaglehawk+Neck+TAS/Tasman+Arch,+Eaglehawk+Neck+TAS/Devils+Kitchen,+Eaglehawk+Neck+TAS/Blow+Hole,+Eaglehawk+Neck+TAS/Port+Arthur+Historic+Site,+Port+Arthur+TAS
+
 **🛏 Stay:** Port Arthur
 
 ---
@@ -89,6 +91,8 @@
 | **19:30–20:30** | 🍽️ Dinner |
 | **20:30+** | Rest |
 
+**Route:** https://www.google.com/maps/dir/Port+Arthur+Historic+Site,+Port+Arthur+TAS/Three+Thumbs+Lookout,+Orford+TAS/Mayfield+Bay,+TAS/Kelvedon+Beach,+TAS/Spiky+Bridge,+Swansea+TAS/Kates+Berry+Farm,+Swansea+TAS/Devils+Corner+Cellar+Door,+Apslawn+TAS/Bicheno,+TAS
+
 **🛏 Stay:** Bicheno
 
 > Thursday is the main evening-driving day. Don't add sightseeing stops after leaving Port Arthur.
@@ -113,6 +117,8 @@
 | **18:20–19:00** | 🏨 Check in / shower |
 | **19:00–20:00** | 🍽️ Dinner |
 | **20:00+** | Rest |
+
+**Route:** https://www.google.com/maps/dir/Coles+Bay,+TAS/Campbell+Town,+TAS/Ross,+TAS/Liffey+Falls,+TAS/Deloraine,+TAS/Mole+Creek,+TAS/Sheffield,+TAS/Cradle+Mountain+Visitor+Centre,+Cradle+Mountain+TAS
 
 **🛏 Stay:** Deloraine
 
@@ -182,6 +188,8 @@ This gives roughly **1 hour 40 minutes at Ronny Creek** while maintaining a safe
 | **15:45–17:10** | Airport / check-in / security |
 | **17:40** | ✈️ Depart **Launceston (LST)** |
 | **19:25** | 🛬 Arrive **Sydney (SYD)** |
+
+**Route:** https://www.google.com/maps/dir/Cradle+Mountain+Visitor+Centre,+Cradle+Mountain+TAS/Sheffield,+TAS/Cataract+Gorge+Reserve,+Launceston+TAS/Launceston+Airport,+Western+Junction+TAS
 
 ---
 
