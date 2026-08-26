@@ -109,7 +109,23 @@
 
 **Route:** https://www.google.com/maps/dir/Port+Arthur+Historic+Site,+Port+Arthur+TAS/Three+Thumbs+Lookout,+Orford+TAS/Mayfield+Bay,+TAS/Kelvedon+Beach,+TAS/Spiky+Bridge,+Swansea+TAS/Kates+Berry+Farm,+Swansea+TAS/Devils+Corner+Cellar+Door,+Apslawn+TAS/Bicheno,+TAS
 
-**🛏 Stay:** Bicheno
+<table>
+<tr>
+<td valign="top">
+
+**🛏 Stay:** Wintersun Motel, Bicheno<br>
+**Rating:** 3.5 stars<br>
+**Check-in:** Thursday, 24 September 2026, 14:00–20:00<br>
+**Check-out:** Friday, 25 September 2026, until 10:00<br>
+**Booking:** 4 adults, 1 night, 1 apartment<br>
+**Address:** 35 Gordon Street, Bicheno TAS 7215, Australia
+
+</td>
+<td valign="top">
+<img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/405463864.jpg?k=f77f3aef6011361ce4edab6bf355156436161ab8764c1b5bed378cc945d2f5e6&amp;o=" alt="Wintersun Motel" width="220">
+</td>
+</tr>
+</table>
 
 > Thursday is the main evening-driving day. Don't add sightseeing stops after leaving Port Arthur.
 
