@@ -180,7 +180,9 @@ Don't depend on getting lunch before finishing the hike.
 | **18:30–20:00** | 🍽️ Dinner |
 | **20:00+** | Relax |
 
-**🛏 Stay:** Cradle Mountain, preferably close to the Visitor Centre.
+**🛏 Stay:** [Cradle Mountain Airbnb](https://www.airbnb.com.au/rooms/9429687?unique_share_id=31766326-93d4-4034-9aa0-9dfb2244ac51&viralityEntryPoint=1&s=76)<br>
+**Check-in:** Saturday, 26 September 2026, 14:00<br>
+**Check-out:** Sunday, 27 September 2026, 10:00
 
 ### Ronny Creek shuttle
 
