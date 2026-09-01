@@ -57,6 +57,16 @@
 </tr>
 </table>
 
+### Dinner options near Port Arthur Motor Inn
+
+Current Wednesday hours; reconfirm closer to the trip, as September hours may change.
+
+| Option | Drive | Wednesday dinner hours | Notes |
+|---|---:|---|---|
+| **[Fox & Hounds Historic Hotel](https://foxandhounds.com.au/dining/)** | ~5 min | **17:30–20:30** | Best verified late option; off-season hours can vary |
+| **[On the Bay Restaurant](https://stewartsbaylodge.com.au/restaurant/)** | ~5 min | Dinner from **17:00** | At Stewarts Bay Lodge; reserve and confirm last seating |
+| **[Port Arthur Motor Inn Restaurant](https://www.portarthur-inn.com.au/restaurant)** | Onsite | Dinner **7 nights** | Easiest option; booking preferred and kitchen cutoff should be confirmed |
+
 ---
 
 # Thursday, 24 September — Cape Raoul Cruise → Port Arthur → Hobart → Bicheno
@@ -102,6 +112,18 @@
 </tr>
 </table>
 
+### Dinner options near Wintersun Motel
+
+Bicheno has limited late dining. **Reserve Sea Life for 19:30 before the trip.** The other two are seasonal backups and must be confirmed directly before relying on them.
+
+| Option | Drive | Current Thursday dinner hours | Notes |
+|---|---:|---|---|
+| **[Sea Life Bicheno](https://www.sealiferestaurantbicheno.com.au/contact)** | ~5 min | **17:00–late** | Only currently verified option suitable after the ~19:15 arrival; phone reservation requested |
+| **[Le Coq Bicheno](https://www.lecoqbicheno.com/)** | ~3 min | Reopening in September; hours not yet published | Promising backup, but confirm reopening date, Thursday service and last seating |
+| **[Diamond Island Resort Restaurant](https://www.diamondislandresort.com.au/copy-of-amenities)** | ~3 min | Seasonal; hours vary | Open to the public when operating; call to confirm Thursday dinner and last seating |
+
+> Don't rely on Food 'n' Brew after arrival: its currently published closing time is 19:30.
+
 > Thursday is the main evening-driving day. The Hobart stop is for meeting Andre and Nadia only; don't add sightseeing stops after leaving Port Arthur.
 
 ---
@@ -144,6 +166,16 @@
 </td>
 </tr>
 </table>
+
+### Dinner options near Mountain View Country Inn
+
+Current Friday hours; reconfirm closer to the trip, as September hours may change.
+
+| Option | Drive | Friday dinner hours | Notes |
+|---|---:|---|---|
+| **[Bush Inn Brewhouse](https://www.bushinn.com.au/)** | ~5 min | **12:00–21:00**, cooking all day | Strongest option for a relaxed 19:00 dinner |
+| **[Deloraine Hotel](https://www.delorainehotel.com.au/)** | ~3 min | Dinner **17:30–20:00** | Kitchen open seven days |
+| **[Settler's Licensed Restaurant](https://www.mountainviewcountryinn.com.au/restaurant.php)** | Onsite | Dinner **7 nights** | At the accommodation; confirm the kitchen cutoff |
 
 ### Hiking food
 
