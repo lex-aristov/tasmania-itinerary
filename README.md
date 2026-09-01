@@ -212,7 +212,31 @@ Don't depend on getting lunch before finishing the hike.
 | **18:30–20:00** | 🍽️ Dinner |
 | **20:00+** | Relax |
 
-**🛏 Stay:** Cradle Mountain, preferably close to the Visitor Centre.
+<table>
+<tr>
+<td valign="top">
+
+**🛏 Stay:** [AAA Granary - Dads 3 bedroom cottage](https://www.airbnb.com.au/rooms/9429687?unique_share_id=31766326-93d4-4034-9aa0-9dfb2244ac51&viralityEntryPoint=1&s=76)<br>
+**Check-in:** Saturday, 26 September 2026, 14:00–20:00<br>
+**Check-out:** Sunday, 27 September 2026, by 10:00<br>
+**Address:** [575 Staverton Road, Promised Land, Tasmania](https://www.google.com/maps/search/?api=1&query=575+Staverton+Road%2C+Promised+Land%2C+Tasmania)<br>
+**GPS coordinates:** [-41.4293056, 146.2034722](https://www.google.com/maps/search/?api=1&query=-41.4293056%2C146.2034722)
+
+</td>
+<td valign="top">
+<img src="https://a0.muscache.com/im/pictures/b43001e0-11d9-4574-b3a8-d779b807be2a.jpg" alt="AAA Granary - Dads 3 bedroom cottage" width="220">
+</td>
+</tr>
+</table>
+
+### AAA Granary arrival notes
+
+- Go to reception on arrival for cottage directions, keys, and the Wi-Fi password. Only one person should enter reception.
+- No early check-in or late check-out.
+- The property is on road C140 at the entrance to Lake Barrington, beside Tasmazia, about 14 km southwest of Sheffield and approximately midway between Devonport and Cradle Mountain.
+- If a GPS device cannot find Promised Land, enter **575 Staverton Road, Staverton** instead.
+- Sheffield restaurants stop serving meals at **20:00**, and the local IGA closes at **19:00** (hours may differ on public holidays).
+- The closest petrol station is in Sheffield.
 
 ### Ronny Creek shuttle
 
