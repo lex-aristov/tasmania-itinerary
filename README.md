@@ -151,9 +151,9 @@ Bicheno has limited late dining. **Reserve Sea Life for 19:30 before the trip.**
 | **19:00–20:00** | 🍽️ Dinner |
 | **20:00+** | Rest |
 
-**Route:** https://www.google.com/maps/dir/Coles+Bay,+TAS/Campbell+Town,+TAS/Ross,+TAS/Liffey+Falls,+TAS/Deloraine,+TAS/Mole+Creek,+TAS/Sheffield,+TAS/Cradle+Mountain+Visitor+Centre,+Cradle+Mountain+TAS
+**Route:** https://www.google.com/maps/dir/Coles+Bay,+TAS/Campbell+Town,+TAS/Ross,+TAS/Liffey+Falls,+TAS/Deloraine,+TAS
 
-**Points:** [Coles Bay, TAS](https://www.google.com/maps/search/?api=1&query=Coles+Bay,+TAS) · [Campbell Town, TAS](https://www.google.com/maps/search/?api=1&query=Campbell+Town,+TAS) · [Ross, TAS](https://www.google.com/maps/search/?api=1&query=Ross,+TAS) · [Liffey Falls, TAS](https://www.google.com/maps/search/?api=1&query=Liffey+Falls,+TAS) · [Deloraine, TAS](https://www.google.com/maps/search/?api=1&query=Deloraine,+TAS) · [Mole Creek, TAS](https://www.google.com/maps/search/?api=1&query=Mole+Creek,+TAS) · [Sheffield, TAS](https://www.google.com/maps/search/?api=1&query=Sheffield,+TAS) · [Cradle Mountain Visitor Centre, Cradle Mountain TAS](https://www.google.com/maps/search/?api=1&query=Cradle+Mountain+Visitor+Centre,+Cradle+Mountain+TAS)
+**Points:** [Coles Bay, TAS](https://www.google.com/maps/search/?api=1&query=Coles+Bay,+TAS) · [Campbell Town, TAS](https://www.google.com/maps/search/?api=1&query=Campbell+Town,+TAS) · [Ross, TAS](https://www.google.com/maps/search/?api=1&query=Ross,+TAS) · [Liffey Falls, TAS](https://www.google.com/maps/search/?api=1&query=Liffey+Falls,+TAS) · [Deloraine, TAS](https://www.google.com/maps/search/?api=1&query=Deloraine,+TAS)
 
 <table>
 <tr>
@@ -213,10 +213,14 @@ Don't depend on getting lunch before finishing the hike.
 | **16:10** | Head back to shuttle stop |
 | **~16:20** | 🚌 Shuttle back |
 | **~16:40** | Visitor Centre |
-| **16:40–17:00** | 🚗 Drive to accommodation |
-| **17:00–18:15** | 🏨 Check in / shower / rest |
+| **16:40–17:30** | 🚗 Drive to accommodation (Promised Land) |
+| **17:30–18:30** | 🏨 Check in / shower / rest |
 | **18:30–20:00** | 🍽️ Dinner |
 | **20:00+** | Relax |
+
+**Route:** https://www.google.com/maps/dir/Deloraine,+TAS/Mole+Creek,+TAS/Cradle+Mountain+Visitor+Centre,+Cradle+Mountain+TAS/575+Staverton+Road,+Staverton+TAS
+
+**Points:** [Deloraine, TAS](https://www.google.com/maps/search/?api=1&query=Deloraine,+TAS) · [Mole Creek, TAS](https://www.google.com/maps/search/?api=1&query=Mole+Creek,+TAS) · [Cradle Mountain Visitor Centre, Cradle Mountain TAS](https://www.google.com/maps/search/?api=1&query=Cradle+Mountain+Visitor+Centre,+Cradle+Mountain+TAS) · [AAA Granary, 575 Staverton Road, Staverton TAS](https://www.google.com/maps/search/?api=1&query=575+Staverton+Road,+Staverton+TAS)
 
 <table>
 <tr>
@@ -260,23 +264,24 @@ This gives roughly **1 hour 40 minutes at Ronny Creek** while maintaining a safe
 |---|---|
 | **08:00** | Wake up |
 | **08:00–08:40** | Shower / get ready |
-| **08:40–09:20** | 🍳 Breakfast |
-| **09:20–10:00** | 🌲 **Enchanted Walk** |
-| **10:00–10:20** | Pack / check out |
-| **10:20–11:35** | 🚗 Cradle Mountain → Sheffield |
-| **11:35–12:30** | 🎨 Sheffield murals + 🍽️ early lunch |
-| **12:30–13:45** | 🚗 Sheffield → Launceston |
-| **13:45–14:45** | 🌳 **Cataract Gorge** |
-| **14:45–15:05** | ☕ Coffee / snack |
-| **15:05–15:30** | 🚗 Drive toward airport + refuel |
+| **08:40–09:15** | 🍳 Breakfast |
+| **09:15–09:35** | Pack / check out |
+| **09:35–10:15** | 🚗 Promised Land → Cradle Mountain |
+| **10:15–10:55** | 🌲 **Enchanted Walk** |
+| **10:55–12:10** | 🚗 Cradle Mountain → Sheffield |
+| **12:10–12:55** | 🎨 Sheffield murals + 🍽️ early lunch |
+| **12:55–14:10** | 🚗 Sheffield → Launceston |
+| **14:10–15:00** | 🌳 **Cataract Gorge** |
+| **15:00–15:15** | ☕ Coffee / snack |
+| **15:15–15:30** | 🚗 Drive toward airport + refuel |
 | **~15:30–15:45** | 🚗 Return rental car |
 | **15:45–17:10** | Airport / check-in / security |
 | **17:40** | ✈️ Depart **Launceston (LST)** |
 | **19:25** | 🛬 Arrive **Sydney (SYD)** |
 
-**Route:** https://www.google.com/maps/dir/Cradle+Mountain+Visitor+Centre,+Cradle+Mountain+TAS/Sheffield,+TAS/Cataract+Gorge+Reserve,+Launceston+TAS/Launceston+Airport,+Western+Junction+TAS
+**Route:** https://www.google.com/maps/dir/575+Staverton+Road,+Staverton+TAS/Cradle+Mountain+Visitor+Centre,+Cradle+Mountain+TAS/Sheffield,+TAS/Cataract+Gorge+Reserve,+Launceston+TAS/Launceston+Airport,+Western+Junction+TAS
 
-**Points:** [Cradle Mountain Visitor Centre, Cradle Mountain TAS](https://www.google.com/maps/search/?api=1&query=Cradle+Mountain+Visitor+Centre,+Cradle+Mountain+TAS) · [Sheffield, TAS](https://www.google.com/maps/search/?api=1&query=Sheffield,+TAS) · [Cataract Gorge Reserve, Launceston TAS](https://www.google.com/maps/search/?api=1&query=Cataract+Gorge+Reserve,+Launceston+TAS) · [Launceston Airport, Western Junction TAS](https://www.google.com/maps/search/?api=1&query=Launceston+Airport,+Western+Junction+TAS)
+**Points:** [AAA Granary, 575 Staverton Road, Staverton TAS](https://www.google.com/maps/search/?api=1&query=575+Staverton+Road,+Staverton+TAS) · [Cradle Mountain Visitor Centre, Cradle Mountain TAS](https://www.google.com/maps/search/?api=1&query=Cradle+Mountain+Visitor+Centre,+Cradle+Mountain+TAS) · [Sheffield, TAS](https://www.google.com/maps/search/?api=1&query=Sheffield,+TAS) · [Cataract Gorge Reserve, Launceston TAS](https://www.google.com/maps/search/?api=1&query=Cataract+Gorge+Reserve,+Launceston+TAS) · [Launceston Airport, Western Junction TAS](https://www.google.com/maps/search/?api=1&query=Launceston+Airport,+Western+Junction+TAS)
 
 ---
 
@@ -299,10 +304,12 @@ Because the flight is at **17:40**, keep a large safety margin.
 |---|---|
 | **08:00** | Wake up |
 | **08:30–09:10** | 🍳 Breakfast |
-| **~09:30–12:15** | 🥾 **Dove Lake Circuit** |
-| **~12:15–12:30** | Return / get car |
-| **12:30** | 🚗 Leave Cradle Mountain |
-| **~13:30** | 🥪 Quick lunch on the way |
+| **09:10–09:30** | Pack / check out |
+| **09:30–10:10** | 🚗 Promised Land → Cradle Mountain |
+| **~10:10–12:55** | 🥾 **Dove Lake Circuit** |
+| **~12:55–13:10** | Return / get car |
+| **13:10** | 🚗 Leave Cradle Mountain |
+| **~14:10** | 🥪 Quick lunch on the way |
 | **~15:00** | Reach Launceston area |
 | **~15:30** | Refuel + return rental car |
 | **17:40** | ✈️ Depart Launceston |
@@ -319,5 +326,5 @@ Skip **Sheffield sightseeing and Cataract Gorge** in this scenario.
 | **Wed 23 Sep** | Lex and Stella: Sydney → Hobart → Mount Wellington → Tasman Peninsula. Andre and Nadia: Melbourne → Hobart | **Port Arthur / Hobart** |
 | **Thu 24 Sep** | Cape Raoul Cruise → Port Arthur Historic Site → Hobart pickup → East Coast | **Bicheno** |
 | **Fri 25 Sep** | Wineglass Bay + Hazards Beach → Campbell Town | **Deloraine** |
-| **Sat 26 Sep** | Dove Lake → Ronny Creek | **Cradle Mountain** |
+| **Sat 26 Sep** | Dove Lake → Ronny Creek | **Promised Land (near Sheffield)** |
 | **Sun 27 Sep** | Enchanted Walk → Sheffield → Cataract Gorge → ✈️ Launceston 17:40 | — |
