@@ -39,6 +39,8 @@
 
 **Route:** https://www.google.com/maps/dir/Mount+Wellington,+Tasmania/Rosny+Hill+Lookout,+Rosny+TAS/Richmond+Bridge,+Richmond+TAS/Richmond,+TAS/Dunalley,+TAS/Pirates+Bay+Lookout,+Eaglehawk+Neck+TAS/Tessellated+Pavement,+Eaglehawk+Neck+TAS/Tasman+Arch,+Eaglehawk+Neck+TAS/Devils+Kitchen,+Eaglehawk+Neck+TAS/Blow+Hole,+Eaglehawk+Neck+TAS/Port+Arthur+Historic+Site,+Port+Arthur+TAS
 
+**Points:** [Mount Wellington, Tasmania](https://www.google.com/maps/search/?api=1&query=Mount+Wellington,+Tasmania) · [Rosny Hill Lookout, Rosny TAS](https://www.google.com/maps/search/?api=1&query=Rosny+Hill+Lookout,+Rosny+TAS) · [Richmond Bridge, Richmond TAS](https://www.google.com/maps/search/?api=1&query=Richmond+Bridge,+Richmond+TAS) · [Richmond, TAS](https://www.google.com/maps/search/?api=1&query=Richmond,+TAS) · [Dunalley, TAS](https://www.google.com/maps/search/?api=1&query=Dunalley,+TAS) · [Pirates Bay Lookout, Eaglehawk Neck TAS](https://www.google.com/maps/search/?api=1&query=Pirates+Bay+Lookout,+Eaglehawk+Neck+TAS) · [Tessellated Pavement, Eaglehawk Neck TAS](https://www.google.com/maps/search/?api=1&query=Tessellated+Pavement,+Eaglehawk+Neck+TAS) · [Tasman Arch, Eaglehawk Neck TAS](https://www.google.com/maps/search/?api=1&query=Tasman+Arch,+Eaglehawk+Neck+TAS) · [Devils Kitchen, Eaglehawk Neck TAS](https://www.google.com/maps/search/?api=1&query=Devils+Kitchen,+Eaglehawk+Neck+TAS) · [Blow Hole, Eaglehawk Neck TAS](https://www.google.com/maps/search/?api=1&query=Blow+Hole,+Eaglehawk+Neck+TAS) · [Port Arthur Historic Site, Port Arthur TAS](https://www.google.com/maps/search/?api=1&query=Port+Arthur+Historic+Site,+Port+Arthur+TAS)
+
 <table>
 <tr>
 <td valign="top">
@@ -94,6 +96,8 @@ Current Wednesday hours; reconfirm closer to the trip, as September hours may ch
 
 **Route:** https://www.google.com/maps/dir/Port+Arthur+Historic+Site,+Port+Arthur+TAS/Hobart+Airport,+Cambridge+TAS/Three+Thumbs+Lookout,+Orford+TAS/Mayfield+Bay,+TAS/Kelvedon+Beach,+TAS/Spiky+Bridge,+Swansea+TAS/Kates+Berry+Farm,+Swansea+TAS/Devils+Corner+Cellar+Door,+Apslawn+TAS/Bicheno,+TAS
 
+**Points:** [Port Arthur Historic Site, Port Arthur TAS](https://www.google.com/maps/search/?api=1&query=Port+Arthur+Historic+Site,+Port+Arthur+TAS) · [Hobart Airport, Cambridge TAS](https://www.google.com/maps/search/?api=1&query=Hobart+Airport,+Cambridge+TAS) · [Three Thumbs Lookout, Orford TAS](https://www.google.com/maps/search/?api=1&query=Three+Thumbs+Lookout,+Orford+TAS) · [Mayfield Bay, TAS](https://www.google.com/maps/search/?api=1&query=Mayfield+Bay,+TAS) · [Kelvedon Beach, TAS](https://www.google.com/maps/search/?api=1&query=Kelvedon+Beach,+TAS) · [Spiky Bridge, Swansea TAS](https://www.google.com/maps/search/?api=1&query=Spiky+Bridge,+Swansea+TAS) · [Kates Berry Farm, Swansea TAS](https://www.google.com/maps/search/?api=1&query=Kates+Berry+Farm,+Swansea+TAS) · [Devils Corner Cellar Door, Apslawn TAS](https://www.google.com/maps/search/?api=1&query=Devils+Corner+Cellar+Door,+Apslawn+TAS) · [Bicheno, TAS](https://www.google.com/maps/search/?api=1&query=Bicheno,+TAS)
+
 <table>
 <tr>
 <td valign="top">
@@ -148,6 +152,8 @@ Bicheno has limited late dining. **Reserve Sea Life for 19:30 before the trip.**
 | **20:00+** | Rest |
 
 **Route:** https://www.google.com/maps/dir/Coles+Bay,+TAS/Campbell+Town,+TAS/Ross,+TAS/Liffey+Falls,+TAS/Deloraine,+TAS/Mole+Creek,+TAS/Sheffield,+TAS/Cradle+Mountain+Visitor+Centre,+Cradle+Mountain+TAS
+
+**Points:** [Coles Bay, TAS](https://www.google.com/maps/search/?api=1&query=Coles+Bay,+TAS) · [Campbell Town, TAS](https://www.google.com/maps/search/?api=1&query=Campbell+Town,+TAS) · [Ross, TAS](https://www.google.com/maps/search/?api=1&query=Ross,+TAS) · [Liffey Falls, TAS](https://www.google.com/maps/search/?api=1&query=Liffey+Falls,+TAS) · [Deloraine, TAS](https://www.google.com/maps/search/?api=1&query=Deloraine,+TAS) · [Mole Creek, TAS](https://www.google.com/maps/search/?api=1&query=Mole+Creek,+TAS) · [Sheffield, TAS](https://www.google.com/maps/search/?api=1&query=Sheffield,+TAS) · [Cradle Mountain Visitor Centre, Cradle Mountain TAS](https://www.google.com/maps/search/?api=1&query=Cradle+Mountain+Visitor+Centre,+Cradle+Mountain+TAS)
 
 <table>
 <tr>
@@ -269,6 +275,8 @@ This gives roughly **1 hour 40 minutes at Ronny Creek** while maintaining a safe
 | **19:25** | 🛬 Arrive **Sydney (SYD)** |
 
 **Route:** https://www.google.com/maps/dir/Cradle+Mountain+Visitor+Centre,+Cradle+Mountain+TAS/Sheffield,+TAS/Cataract+Gorge+Reserve,+Launceston+TAS/Launceston+Airport,+Western+Junction+TAS
+
+**Points:** [Cradle Mountain Visitor Centre, Cradle Mountain TAS](https://www.google.com/maps/search/?api=1&query=Cradle+Mountain+Visitor+Centre,+Cradle+Mountain+TAS) · [Sheffield, TAS](https://www.google.com/maps/search/?api=1&query=Sheffield,+TAS) · [Cataract Gorge Reserve, Launceston TAS](https://www.google.com/maps/search/?api=1&query=Cataract+Gorge+Reserve,+Launceston+TAS) · [Launceston Airport, Western Junction TAS](https://www.google.com/maps/search/?api=1&query=Launceston+Airport,+Western+Junction+TAS)
 
 ---
 
