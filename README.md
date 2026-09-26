@@ -256,7 +256,7 @@ This gives roughly **1 hour 40 minutes at Ronny Creek** while maintaining a safe
 
 ---
 
-# Sunday, 27 September — Cradle Mountain → Sheffield → Launceston → Sydney
+# Sunday, 27 September — Promised Land → Sheffield → Launceston → Sydney
 
 ⚠️ **Flight departs at 17:40.** Follow this plan to preserve enough time for the rental-car return, check-in, and security.
 
@@ -264,37 +264,22 @@ This gives roughly **1 hour 40 minutes at Ronny Creek** while maintaining a safe
 |---|---|
 | **08:00** | Wake up |
 | **08:00–08:40** | Shower / get ready |
-| **08:40–09:15** | 🍳 Breakfast |
-| **09:15–09:35** | Pack / check out |
-| **09:35–10:15** | 🚗 Promised Land → Cradle Mountain |
-| **10:15–10:55** | 🌲 **Enchanted Walk** |
-| **10:55–12:10** | 🚗 Cradle Mountain → Sheffield |
-| **12:10–12:55** | 🎨 Sheffield murals + 🍽️ early lunch |
-| **12:55–14:10** | 🚗 Sheffield → Launceston |
-| **14:10–15:00** | 🌳 **Cataract Gorge** |
-| **15:00–15:15** | ☕ Coffee / snack |
-| **15:15–15:30** | 🚗 Drive toward airport + refuel |
-| **~15:30–15:45** | 🚗 Return rental car |
-| **15:45–17:10** | Airport / check-in / security |
+| **08:40–09:20** | 🍳 Breakfast |
+| **09:20–09:45** | Pack / check out |
+| **09:45–10:05** | 🚗 Promised Land → Sheffield |
+| **10:05–11:15** | 🎨 Walk the **Sheffield mural trail** + coffee |
+| **11:15–12:30** | 🚗 Sheffield → Launceston |
+| **12:30–13:15** | 🍽️ Lunch in Launceston |
+| **13:15–14:45** | 🌳 **Cataract Gorge** — First Basin and short riverside walk |
+| **14:45–15:10** | 🚗 Drive toward airport + refuel |
+| **15:10–15:30** | 🚗 Return rental car |
+| **15:30–17:10** | Airport / check-in / security |
 | **17:40** | ✈️ Depart **Launceston (LST)** |
 | **19:25** | 🛬 Arrive **Sydney (SYD)** |
 
-**Route:** https://www.google.com/maps/dir/575+Staverton+Road,+Staverton+TAS/Cradle+Mountain+Visitor+Centre,+Cradle+Mountain+TAS/Sheffield,+TAS/Cataract+Gorge+Reserve,+Launceston+TAS/Launceston+Airport,+Western+Junction+TAS
+**Route:** https://www.google.com/maps/dir/575+Staverton+Road,+Staverton+TAS/Sheffield,+TAS/Cataract+Gorge+Reserve,+Launceston+TAS/Launceston+Airport,+Western+Junction+TAS
 
-**Points:** [AAA Granary, 575 Staverton Road, Staverton TAS](https://www.google.com/maps/search/?api=1&query=575+Staverton+Road,+Staverton+TAS) · [Cradle Mountain Visitor Centre, Cradle Mountain TAS](https://www.google.com/maps/search/?api=1&query=Cradle+Mountain+Visitor+Centre,+Cradle+Mountain+TAS) · [Sheffield, TAS](https://www.google.com/maps/search/?api=1&query=Sheffield,+TAS) · [Cataract Gorge Reserve, Launceston TAS](https://www.google.com/maps/search/?api=1&query=Cataract+Gorge+Reserve,+Launceston+TAS) · [Launceston Airport, Western Junction TAS](https://www.google.com/maps/search/?api=1&query=Launceston+Airport,+Western+Junction+TAS)
-
----
-
-# 🌧️ Saturday Bad Weather Plan — Cradle Mountain
-
-If Saturday weather at Cradle Mountain is terrible:
-
-## Saturday
-
-- Do **Ronny Creek**
-- Do shorter forest walks
-- Relax at Cradle Mountain
-- Don't force Dove Lake in poor conditions
+**Points:** [AAA Granary, 575 Staverton Road, Staverton TAS](https://www.google.com/maps/search/?api=1&query=575+Staverton+Road,+Staverton+TAS) · [Sheffield, TAS](https://www.google.com/maps/search/?api=1&query=Sheffield,+TAS) · [Cataract Gorge Reserve, Launceston TAS](https://www.google.com/maps/search/?api=1&query=Cataract+Gorge+Reserve,+Launceston+TAS) · [Launceston Airport, Western Junction TAS](https://www.google.com/maps/search/?api=1&query=Launceston+Airport,+Western+Junction+TAS)
 
 ---
 
@@ -306,4 +291,4 @@ If Saturday weather at Cradle Mountain is terrible:
 | **Thu 24 Sep** | Cape Raoul Cruise → Port Arthur Historic Site → Hobart pickup → East Coast | **Bicheno** |
 | **Fri 25 Sep** | Wineglass Bay + Hazards Beach → Campbell Town | **Deloraine** |
 | **Sat 26 Sep** | Dove Lake → Ronny Creek | **Promised Land (near Sheffield)** |
-| **Sun 27 Sep** | Enchanted Walk → Sheffield → Cataract Gorge → ✈️ Launceston 17:40 | — |
+| **Sun 27 Sep** | Sheffield murals → Cataract Gorge → ✈️ Launceston 17:40 | — |
