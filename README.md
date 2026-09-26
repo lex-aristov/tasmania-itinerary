@@ -258,7 +258,7 @@ This gives roughly **1 hour 40 minutes at Ronny Creek** while maintaining a safe
 
 # Sunday, 27 September — Cradle Mountain → Sheffield → Launceston → Sydney
 
-⚠️ **Flight departs at 17:40**, so the previous plan needs to finish earlier.
+⚠️ **Flight departs at 17:40.** Follow this plan to preserve enough time for the rental-car return, check-in, and security.
 
 | Time | Plan |
 |---|---|
@@ -285,7 +285,7 @@ This gives roughly **1 hour 40 minutes at Ronny Creek** while maintaining a safe
 
 ---
 
-# 🌧️ Bad Weather Backup — Cradle Mountain
+# 🌧️ Saturday Bad Weather Plan — Cradle Mountain
 
 If Saturday weather at Cradle Mountain is terrible:
 
@@ -295,27 +295,6 @@ If Saturday weather at Cradle Mountain is terrible:
 - Do shorter forest walks
 - Relax at Cradle Mountain
 - Don't force Dove Lake in poor conditions
-
-## Sunday
-
-Because the flight is at **17:40**, keep a large safety margin.
-
-| Time | Plan |
-|---|---|
-| **08:00** | Wake up |
-| **08:30–09:10** | 🍳 Breakfast |
-| **09:10–09:30** | Pack / check out |
-| **09:30–10:10** | 🚗 Promised Land → Cradle Mountain |
-| **~10:10–12:55** | 🥾 **Dove Lake Circuit** |
-| **~12:55–13:10** | Return / get car |
-| **13:10** | 🚗 Leave Cradle Mountain |
-| **~14:10** | 🥪 Quick lunch on the way |
-| **~15:00** | Reach Launceston area |
-| **~15:30** | Refuel + return rental car |
-| **17:40** | ✈️ Depart Launceston |
-| **19:25** | 🛬 Sydney |
-
-Skip **Sheffield sightseeing and Cataract Gorge** in this scenario.
 
 ---
 
